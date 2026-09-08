@@ -1,2 +1,2 @@
 # Writeups
-Writeups forvarious CTFs, challenges and other topics.
+Writeups for various CTFs, challenges and other topics.
